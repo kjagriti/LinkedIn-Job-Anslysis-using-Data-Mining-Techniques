@@ -10,13 +10,13 @@ Moreover, potential candidates face many rejections from the companies that requ
 For universities, understanding the latest trends in the data science job market is important so they can tailor their curriculum to teach industry-relevant skills.
 
 # Project structure
-datasets/ - Contains the Web-scraped Linkedin data in CSV files for job titles containing Data Science, Data analyst, Applied scientist, Machine learning enginner, Big data enginner, Statistician and Researcher.
-Data mining mini presentation.pdf - Project presentation
-Report.pdf - Final project report
-DataMiningProject.ipynb - Contains project code orgainized in following sections
-Data Collection
-Exploratory Data Analysis
-Data Preprocessing
-Classify job description into different job roles
-Job recommendation based on document similarity
-Apriori analysis to determine skills often listed toghether to recommend skills training for job seekers for the roles
+datasets - Contains the Web-scraped Linkedin data in CSV files for job titles containing Data Science, Data analyst, Applied scientist, Machine learning enginner, Big data enginner, Statistician and Researcher.
+# Data mining mini presentation.pdf - Project presentation
+# Report.pdf - Final project report
+# DataMiningProject.ipynb - Contains project code orgainized in following sections
+1. Data Collection
+2. Exploratory Data Analysis
+3. Data Preprocessing
+4. Classify job description into different job roles
+5. Job recommendation based on document similarity
+6. Apriori analysis to determine skills often listed toghether to recommend skills training for job seekers for the roles
