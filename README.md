@@ -11,9 +11,9 @@ For universities, understanding the latest trends in the data science job market
 
 # Project structure
 datasets - Contains the Web-scraped Linkedin data in CSV files for job titles containing Data Science, Data analyst, Applied scientist, Machine learning enginner, Big data enginner, Statistician and Researcher.
-# Data mining mini presentation.pdf - Project presentation
-# Report.pdf - Final project report
-# DataMiningProject.ipynb - Contains project code orgainized in following sections
+**Data mining mini presentation.pdf - Project presentation
+Report.pdf - Final project report
+DataMiningProject.ipynb - Contains project code orgainized in following sections**
 1. Data Collection
 2. Exploratory Data Analysis
 3. Data Preprocessing
